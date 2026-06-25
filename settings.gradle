@@ -1,0 +1,5 @@
+rootProject.name = 'entrenamiento'
+
+include 'infraestructura'
+include 'dominio'
+include 'aplicacion'
