@@ -3,6 +3,7 @@ package com.gestionspersona.entrenamiento.comandos;
 import com.gestionspersona.entrenamiento.dtos.PersonaDTO;
 import com.gestionspersona.entrenamiento.modelo.Persona;
 import jakarta.validation.constraints.*;
+import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 
